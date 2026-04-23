@@ -1,0 +1,7 @@
+Phase 2: Backend Development & Configurations Data Architecture
+Epic
+Complexity: medium
+Duration: 2h 53m
+Description
+This phase focuses on building the core backend setup, including creation of Update Sets, configuring catalog items with variables, designing workflows, and mapping request data to ServiceNow tables (REQ, RITM, SCTASK) to ensure proper automation and data flow
+
